@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1537832681 source:c:\users\erick\onedrive\documentos\tec\2018\estructuras\tareas\erickacespedes-tarea3\tarea3\dcirclelist.h
+	<stdexcept>
+	"DNode.h"
+
+1537832451 source:c:\users\erick\onedrive\documentos\tec\2018\estructuras\tareas\erickacespedes-tarea3\tarea3\dlinkedlist.h
+	<stdexcept>
+	"List.h"
+	"DNode.h"
+
+1537832483 c:\users\erick\onedrive\documentos\tec\2018\estructuras\tareas\erickacespedes-tarea3\tarea3\list.h
+
+1537832543 c:\users\erick\onedrive\documentos\tec\2018\estructuras\tareas\erickacespedes-tarea3\tarea3\dnode.h
+
+1537832543 source:c:\users\erick\onedrive\documentos\tec\2018\estructuras\tareas\erickacespedes-tarea3\tarea3\dnode.h
+
+1537832483 source:c:\users\erick\onedrive\documentos\tec\2018\estructuras\tareas\erickacespedes-tarea3\tarea3\list.h
+
+1537906278 source:c:\users\erick\onedrive\documentos\tec\2018\estructuras\tareas\erickacespedes-tarea3\tarea3\main.cpp
+	<iostream>
+	"DLinkedList.h"
+	"DCircleList.h"
+
+1537832451 c:\users\erick\onedrive\documentos\tec\2018\estructuras\tareas\erickacespedes-tarea3\tarea3\dlinkedlist.h
+	<stdexcept>
+	"List.h"
+	"DNode.h"
+
+1537906203 c:\users\erick\onedrive\documentos\tec\2018\estructuras\tareas\erickacespedes-tarea3\tarea3\dcirclelist.h
+	<stdexcept>
+	"DNode.h"
+
