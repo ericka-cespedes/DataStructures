@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1535950958 source:c:\users\erick\onedrive\documentos\tec\2018\estructuras\tareas\tarea2\linkedlist\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1535951648 c:\users\erick\onedrive\documentos\tec\2018\estructuras\tareas\tarea2\linkedlist\linkedlist.h
+	"List.h"
+	"Node.h"
+	<stdexcept>
+
+1535950215 c:\users\erick\onedrive\documentos\tec\2018\estructuras\tareas\tarea2\linkedlist\list.h
+
+1535685007 c:\users\erick\onedrive\documentos\tec\2018\estructuras\tareas\tarea2\linkedlist\node.h
+

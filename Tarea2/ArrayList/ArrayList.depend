@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1535949093 source:c:\users\erick\onedrive\documentos\tec\2018\estructuras\tareas\tarea2\arraylist\main.cpp
+	<iostream>
+	"ArrayList.h"
+
+1535951694 c:\users\erick\onedrive\documentos\tec\2018\estructuras\tareas\tarea2\arraylist\arraylist.h
+	"List.h"
+	<stdexcept>
+
+1535947728 c:\users\erick\onedrive\documentos\tec\2018\estructuras\tareas\tarea2\arraylist\list.h
+
