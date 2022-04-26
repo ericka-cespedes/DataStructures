@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1534392226 source:d:\ii semestre 2018\estructuras\tareas\tarea1-parteii-ejercicio3\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<algorithm>
+
